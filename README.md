@@ -1,7 +1,7 @@
 # Pairshare
 PairShare: A seamless, offline pair programming tool for real-time screen sharing and alternating control on local networks.
 
-# **PairShare**
+## **PairShare**
 
 **PairShare** is a C++-based software tool designed for seamless, offline pair programming on local networks. 
 It enables two users to share screens and alternate control of the mouse and keyboard, allowing for an enhanced collaborative coding experience without requiring an internet connection.
